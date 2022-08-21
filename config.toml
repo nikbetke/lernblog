@@ -1,4 +1,4 @@
 baseURL = 'https://nikbetke.github.io/lernblog/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Niklas Lernblog'
 theme = "PaperMod"
