@@ -1,4 +1,4 @@
-baseURL = 'https://nikbetke.github.io/lernblog/'
+baseURL = 'https://nikbetke.github.io'
 languageCode = 'en-us'
 title = 'Niklas Lernblog'
 theme = "PaperMod"
